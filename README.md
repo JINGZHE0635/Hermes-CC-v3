@@ -2,7 +2,8 @@
 
 > 综合监控操作台 — Hermes Monitor + 控制面板 + ClawMetry 追踪 + 自动修复 + 一键操作
 
-![Hermes CC Preview](hermes-cc-preview.svg)
+![总览面板](hermes-cc-preview.svg)
+![服务监控与操作面板](hermes-cc-preview-2.svg)
 
 ## ✨ 功能一览
 
@@ -53,7 +54,8 @@ MONITOR_PASSWORD=your-password python3 hermes-cc.py
 ```
 Hermes-CC-v3/
 ├── hermes-cc.py          # 主程序（单文件，139KB）
-├── hermes-cc-preview.svg # 界面预览图
+├── hermes-cc-preview.svg # 界面预览图 - 总览
+├── hermes-cc-preview-2.svg # 界面预览图 - 服务
 ├── requirements.txt      # Python 依赖
 └── README.md             # 本文件
 ```
